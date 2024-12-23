@@ -25,13 +25,12 @@ Key features include:
 
 The foundational axiom of TAI is:
 
-Σ Q = E_vacuum + R_μν + S_A > 0
+\[ \Sigma Q = E_{\text{vacuum}} + R_{\mu\nu} + S_A > 0 \]
 
 Where:
-- E_vacuum: Vacuum energy density.
-- R_μν: Ricci curvature tensor.
-- S_A: Entropy associated with spacetime structures.
-
+- **\( E_{\text{vacuum}} \)**: Vacuum energy density.
+- **\( R_{\mu\nu} \)**: Ricci curvature tensor.
+- **\( S_A \)**: Entropy associated with spacetime structures.
 
 This equation ensures that all components of the universe collectively contribute to a state greater than absolute nothingness. It implies that vacuum energy, curvature, and entropy must coexist dynamically to avoid singularities or collapse into "absolute nothing."
 
@@ -42,15 +41,14 @@ This equation ensures that all components of the universe collectively contribut
 ### 3.1. Fractal Density
 Fractal density forms the backbone of large-scale cosmic structures. It is defined as:
 
-ρ(r, t) = ρ_0 + ε Σ (a_n / n^α) cos(2πn r / L + ω_n t + φ_n) mod L
-
+\[ \rho(r, t) = \rho_0 + \epsilon \sum_{n=1}^\infty \frac{a_n}{n^\alpha} \cos\left(2\pi n \frac{r}{L} + \omega_n t + \phi_n\right) \mod L \]
 
 Where:
-- ρ_0: Baseline density.
-- ε: Scaling factor for fluctuations.
-- α: Decay rate for amplitude.
-- L: Characteristic scale for periodicity.
-- φ_n: Phase terms ensuring self-consistency.
+- \( \rho_0 \): Baseline density.
+- \( \epsilon \): Scaling factor for fluctuations.
+- \( \alpha \): Decay rate for amplitude.
+- \( L \): Characteristic scale for periodicity.
+- \( \phi_n \): Phase terms ensuring self-consistency.
 
 This formulation provides a recursive structure to spacetime density, leading to self-similar patterns observable at multiple scales.
 
