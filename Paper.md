@@ -1,8 +1,8 @@
 A Composite Grand Unified Theory (CGUT):
 Unifying Noncommutative Geometry, Novel Dynamical Fields, Quantum Noise, Hidden-Sector SUSY Breaking, and Quantum-Temporal Processing
 
-Authors: [Your Name / Joseph Tai]
-Date: [Month, Year]
+Authors: Joseph Tai
+Date: February 20th 2025
 
 ------------------------------------------------------------
 
