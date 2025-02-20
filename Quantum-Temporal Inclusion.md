@@ -1,6 +1,5 @@
 Quantum-Temporal Inclusion in a Composite Grand Unified Theory
 Joseph Tai
-joseugah@gmail.com
 February 20th, 2025
 
 Abstract:
