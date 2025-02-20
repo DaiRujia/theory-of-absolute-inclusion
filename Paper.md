@@ -2,8 +2,6 @@
 ### Unifying Noncommutative Geometry, Dynamical Vacuum Fields, Quantum Temporal Processing, and Hidden-Sector SUSY Breaking
 
 **Author:** Joseph Tai  
-
-**Email:** [Your Email]  
 **Date:** February 20, 2025
 
 ---
