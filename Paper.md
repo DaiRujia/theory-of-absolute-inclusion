@@ -1,7 +1,3 @@
-Below is the final integrated paper in plain text:
-
-------------------------------------------------------------
-
 A Composite Grand Unified Theory (CGUT):
 Unifying Noncommutative Geometry, Novel Dynamical Fields, Quantum Noise, Hidden-Sector SUSY Breaking, and Quantum-Temporal Processing
 
